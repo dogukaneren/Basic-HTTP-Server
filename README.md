@@ -1,9 +1,11 @@
 # Basic-HTTP-Server
 
-##**Basic Usage**
+## **Basic Usage**
+1. Pull the container from docker hub
 ``` bash
 docker pull dogukaneren/basic-http-server
 ```
+2. Run the container
 
 ``` bash
 docker run dogukaneren/basic-http-server
