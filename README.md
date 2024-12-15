@@ -1,6 +1,16 @@
 # Basic-HTTP-Server
 
-## **Docker Setup**
+##**Basic Usage**
+``` bash
+docker pull dogukaneren/basic-http-server
+```
+
+``` bash
+docker run dogukaneren/basic-http-server
+```
+
+
+## **Dockerfile Usage and Setup**
 
 1. Navigate to the directory containing the Dockerfile:
    ```bash
