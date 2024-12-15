@@ -4,5 +4,6 @@
 **Docker**
 
 ``` bash
+cd Docker
 Docker build .
 ```
